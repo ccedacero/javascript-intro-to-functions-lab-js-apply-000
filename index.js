@@ -30,6 +30,6 @@ function sayHiToGrandma(string) {
 function sayHiToGrandma(string) {
   let output = "I love you, Grandma.";
   if (string === output) {
-    return 'I love you, too.'
+    return 'I love you, too.';
   }
 }
