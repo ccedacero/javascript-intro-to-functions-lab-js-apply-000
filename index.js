@@ -15,12 +15,9 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  let lower = string.toLowerCase();
-  for (let i = 0 ; i < str.length; i++) {
-    if (str[i]===lower[i]) {
-      return "I can't hear you!";
-    }
-  }                    
+  let upper = string.toUpperCase();
+    if (string[0] !== upper[0]) {
+      return ''
 }
 
 function sayHiToGrandma(string) {
