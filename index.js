@@ -23,5 +23,6 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  if string.eq
+  let output = 
+  if string.equals(string);
 }
