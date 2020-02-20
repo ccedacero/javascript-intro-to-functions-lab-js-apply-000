@@ -15,11 +15,8 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (string.localeCompare(string)===0){
-    return 'I can\'t hear you!';
-  }
+ if (string[0] === )
 }
-
 function sayHiToGrandma(string) {
   if (string === string.toUpperCase()) {
     return 'YES INDEED';
