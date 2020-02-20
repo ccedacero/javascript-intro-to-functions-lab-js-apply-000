@@ -17,15 +17,14 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   let lower = string.toLowerCase();
   
-  if (string === lower) {
+  if (string.locale{
     return "I can't hear you!";
   }
 }
 
 function sayHiToGrandma(string) {
   let upper = string.toUpperCase() 
-    if (upper[0] === string[0]) {
-    return 'YES INDEED';
+    
   }
 }
 
