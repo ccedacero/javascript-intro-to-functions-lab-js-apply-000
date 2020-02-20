@@ -23,6 +23,8 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  let output = 
-  if string.equals(string);
+  let output = "I love you, Grandma.";
+  if (string.equals(output) === true) {
+    return 'I love you, too'
+  }
 }
