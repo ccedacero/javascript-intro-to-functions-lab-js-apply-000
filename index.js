@@ -15,7 +15,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (string.localCompare(string)) {
+  if (string.localeCompare(string)===0){
     return 'I can\'t hear you!';
   }
 }
